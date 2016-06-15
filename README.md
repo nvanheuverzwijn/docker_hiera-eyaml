@@ -1,4 +1,4 @@
-Because docker hub doesn't provide status badges, and I like green... [![Build Status](https://travis-ci.org/halberom/docker_hiera-eyaml.svg?branch=master)](https://travis-ci.org/halberom/docker_hiera-eyaml)
+[![Build Status](https://travis-ci.org/halberom/docker_hiera-eyaml.svg?branch=master)](https://travis-ci.org/halberom/docker_hiera-eyaml)
 
 Example run
 
