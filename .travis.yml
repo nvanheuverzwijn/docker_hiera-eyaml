@@ -8,4 +8,4 @@ install:
   - docker build -t hiera-eyaml .
 script:
   # should output something like "[hiera-eyaml-core] hiera-eyaml (core): 2.1.0"
-  - docker run -it --rm --name hiera-eyaml hiera-eyaml version | grep -q '[hiera-eyaml-core]'
+  - docker run -it --rm --name hiera-eyaml hiera-eyaml version | grep -q '\[hiera-eyaml-core\]'
